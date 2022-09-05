@@ -1,0 +1,41 @@
+Assignment 2: Work Breakout Agreement
+Group: Breakout
+Team members:
+•	Tah Wen Zhong
+•	Jason Zhern Wee Toh
+Responsibilities
+The features and concepts are to be agreed between all participants before implementations. Each participant will focus on a certain feature to design, create, and modify. Furthermore, create or edit the class documentations for the modifications and creations.
+Updating the class diagram
+?	Assigned to: All
+?	Complete by: 20/5/2020
+?	Review by: All
+Update the Design Rationale
+?	Assigned to: All 
+?	Complete by: 20/5/2020
+?	Review by: All
+Coding and commenting
+•	Implementing “Zombie attack” features
+?	Assigned to: All
+?	Complete by: 16/5/2020
+?	Review by: All
+•	Implementing “Beating up the Zombies” features
+?	Assigned to: Jason Zhern Wee Toh
+?	Complete by: 1/5/2020
+?	Review by: Tah Wen Zhong
+•	Implementing “Crafting weapons” features
+?	Assigned to: Tah Wen Zhong
+?	Complete by: 1/5/2020
+?	Review by: Jason Zhern Wee Toh
+•	Implementing “Rising from the dead” features
+?	Assigned to: All 
+?	Complete by: 16/5/2020
+?	Review by: All
+•	Implementing “Farmers and food” features
+?	Assigned to: Jason Zhern Wee Toh
+?	Complete by: 1/5/2020
+?	Review by: Tah Wen Zhong
+Agreement
+I accept this WBA
+
+Accepted the WBA (Jason Toh Zhern Wee)
+Accepted the WBA (Tah Wen Zhong)

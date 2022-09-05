@@ -1,0 +1,56 @@
+﻿Assignment 3: Work Breakout Agreement
+Group: Breakout
+
+Team members:
+• Tah Wen Zhong
+• Jason Zhern Wee Toh
+---------------------------------------------
+Responsibilities
+• The features and concepts are to be agreed between all participants before implementations. 
+• Each participant will focus on a certain feature to design, create, and modify. 
+• Furthermore, create or edit the class documentations for the modifications and creations.
+
+---------------------------------------------
+Updating the UML Class Diagram
+○ Assigned to: All
+○ Complete by: 12/6/2020
+○ Review by: All
+
+Update the Design Rationale
+○ Assigned to: All 
+○ Complete by: 12/6/2020
+○ Review by: All
+
+Update the Sequence Diagram
+○ Assigned to: All 
+○ Complete by: 12/6/2020
+○ Review by: All
+
+Create the Engine Code Recommendation
+○ Assigned to: All 
+○ Complete by: 12/6/2020
+○ Review by: All
+
+------------------------------------------------
+Coding and commenting
+• Implementing Town features
+○ Assigned to: Jason Toh Zhern Wee
+○ Review by: All
+
+• Implementing Shotgun and Sniper features
+○ Assigned to: Tah Wen Zhong
+○ Review by: All
+
+• Implementing Mambo Marie features
+○ Assigned to: Tah Wen Zhong
+○ Review by: All
+
+• Implementing Ending the Game features
+○ Assigned to: Jason Toh Zhern Wee
+○ Review by: All
+
+Agreement
+I accept this WBA
+
+Accepted the WBA (Jason Toh Zhern Wee)
+Accepted the WBA (Tah Wen Zhong)
